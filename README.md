@@ -1,5 +1,8 @@
 # regex-highlighter
 
+정규식 학습용 코드입니다.
+입력한 정규식을 검사하여 하이라이트해서 보여줍니다.
+
 ## Project setup
 ```
 npm install
@@ -9,11 +12,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
